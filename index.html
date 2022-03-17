@@ -13,7 +13,7 @@
     <body bgcolor="black">
         <center>
             <a href="https://api.whatsapp.com/send?phone=6281380955635&text=Halo%20Bos%20MD,%20Saya%20Tertarik%20Beli%20Mesin%20Buzzernya!">
-                <img src="img/bannermar.jpg" width="380">
+                <img src="https://bossmd.github.io/bannermar.jpg " width="380">
             </a>
         </center>
     </body>
